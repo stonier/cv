@@ -17,7 +17,7 @@ MakeIndex=
 QuickBuild=
 
 [document-settings,item:resume.tex]
-Bookmarks=43,67
+Bookmarks=72,126,44
 Encoding=UTF-8
 Highlighting=LaTeX
 Indentation Mode=normal
@@ -35,16 +35,16 @@ order=-1
 
 [item:resume.tex]
 archive=true
-column=0
+column=46
 encoding=UTF-8
 highlight=LaTeX
-line=117
+line=28
 mode=LaTeX
 open=true
 order=0
 
 [view-settings,view=0,item:resume.tex]
-CursorColumn=0
-CursorLine=117
+CursorColumn=46
+CursorLine=28
 JumpList=
-ViMarks=.,116,12,[,116,0,],-1,-1,a,43,0,b,67,0
+ViMarks=.,28,45,[,28,43,],28,45,a,44,0,b,72,0,c,126,0
