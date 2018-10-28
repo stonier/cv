@@ -4,4 +4,4 @@
 *.out
 *.pdf
 *~
-
+*.synctex.gz
