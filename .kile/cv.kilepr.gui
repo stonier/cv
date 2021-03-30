@@ -14,7 +14,7 @@ Mode=LaTeX
 Mode Set By User=false
 
 [document-settings,item:resume.tex]
-Bookmarks=
+Bookmarks=203
 Encoding=UTF-8
 Highlighting=LaTeX
 Highlighting Set By User=false
@@ -42,8 +42,8 @@ TextFolding=[]
 ViMarks=.,26,3,[,26,3,],26,3
 
 [view-settings,view=0,item:resume.tex]
-CursorColumn=58
-CursorLine=158
+CursorColumn=0
+CursorLine=214
 JumpList=
 TextFolding=[]
-ViMarks=.,158,57,[,158,45,],158,57
+ViMarks=.,214,281,[,214,249,],214,281,a,203,0
